@@ -1,5 +1,4 @@
 streamlit 
-warnings
 pandas 
 numpy
 pandas
