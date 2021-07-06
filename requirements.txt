@@ -3,13 +3,9 @@ pandas
 numpy
 pandas
 tweepy
-json
-tweepy
-re
 textblob
 wordcloud
 openpyxl
-time
 tqdm
 matplotlib
 seaborn
