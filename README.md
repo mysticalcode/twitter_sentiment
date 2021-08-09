@@ -11,5 +11,6 @@ https://sentimentanalysisram.herokuapp.com/
 
 
 #Examples of Data Analysis Visualizations
-<img src="images/652cd9a8cd021cbae8599b0095fd4f4d96d95251b80b91ee26fd1f49.png" width=350 title="Pie chart">
-<img src="images/fef3eaae643903d284bf326d9768c6a0d52d7c6e96a136b54b1f6d54.png" width="350" ,title ="Word Cloud">
+
+<img src="images/652cd9a8cd021cbae8599b0095fd4f4d96d95251b80b91ee26fd1f49.png"  title="Pie chart">
+<img src="images/fef3eaae643903d284bf326d9768c6a0d52d7c6e96a136b54b1f6d54.png" title ="Word Cloud">
