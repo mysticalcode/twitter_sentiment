@@ -15,3 +15,7 @@ https://sentimentanalysisram.herokuapp.com/
 <img src="images/652cd9a8cd021cbae8599b0095fd4f4d96d95251b80b91ee26fd1f49.png"  title="Pie chart">
 <img src="images/fef3eaae643903d284bf326d9768c6a0d52d7c6e96a136b54b1f6d54.png" title ="Word Cloud">
 <img src="images/dd1f6562bfd0c8d12af3541f58d8b97a095905c90a52601fda30d2d0.png" title ="count plot">
+
+#Tweets are extracted real time ,Example
+
+<img src="images/WhatsApp Image 2021-08-09 at 12.25.12.jpeg" title ="Alphabet">
