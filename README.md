@@ -7,3 +7,9 @@ I use this project to gain information about various stocks and mutual funds.thi
 circulating in the market.
 #Heroku link
 https://sentimentanalysisram.herokuapp.com/
+
+
+
+#Examples of Data Analysis Visualizations
+<img src="images/652cd9a8cd021cbae8599b0095fd4f4d96d95251b80b91ee26fd1f49.png">
+<img src="">
