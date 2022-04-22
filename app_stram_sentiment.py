@@ -45,10 +45,10 @@ def main():
     st.subheader("Select a topic which you'd like to get the sentiment analysis on :")
 
     
-    consumer_key = "dSvvwfif7tiAuf3v7thNE3PaQ"
-    consumer_secret = "M7nQijGhFk5ocNXFtpgsBR1bKk1sufgLAdzClm7VOYJW1dgohS"
-    access_token = "1074338008659386368-9U1Mech9EDcqPSo4koHjQ0nPrHSXVA"
-    access_token_secret = "fZigrghvK6UG2zsYBczvdzBhGxtxYHuN5Ol5OT5QmvxOI"
+    consumer_key = "7UgpGyQ1ZUCV6QvHtakxkvQQY"
+    consumer_secret = "VO4L40BA3n3lC8lMFLGhCUJDiy8yD7bNQvlke7yckzLpfueP82"
+    access_token = "1486594632637059073-4JtHLBKb3jD9izt0wOo1j35iBDoTB1"
+    access_token_secret = "FFfU5Te6FuCgERxK5AaRdIrvis7BH2EWKbyHqpBu6QMO7"
 
 
 
